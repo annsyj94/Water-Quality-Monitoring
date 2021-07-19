@@ -1,1 +1,1 @@
-# Prediction-of-water-quality-
+# Water Quality (Drinking water potability) 
